@@ -28,7 +28,9 @@
 // @version      1.1
 // @author       Frostlight
 // @description  Removes applied jobs from Indeed searches
-// @icon		 
+// @icon		 https://raw.githubusercontent.com/Frostlight/HideAppliedJobs-Userscript/master/icon.png
+// @domain 		 raw.github.com
+// @domain		 indeed.com
 // @include      https://*.indeed.com/jobs*
 // @include      https://indeed.com/jobs*
 // @grant        none
