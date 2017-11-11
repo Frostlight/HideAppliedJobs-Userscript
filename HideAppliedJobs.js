@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Hide Applied Jobs
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Removes applied Jobs from Indeed searches
 // @author       Frostlight
-// @match        https://*.indeed.com/jobs*
-// @match        https://indeed.com/jobs*
+// @include        https://*.indeed.com/jobs*
+// @include        https://indeed.com/jobs*
 // @grant        none
 // ==/UserScript==
 
