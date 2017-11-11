@@ -25,7 +25,7 @@
 // @ids			 HideAppliedJobs
 // @name         Hide Applied Jobs
 // @namespace    https://github.com/frostlight
-// @version      1.1
+// @version      1.2
 // @author       Frostlight
 // @description  Removes applied jobs from Indeed searches
 // @license      GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
@@ -33,8 +33,8 @@
 // @icon		 https://raw.githubusercontent.com/Frostlight/HideAppliedJobs-Userscript/master/icon.png
 // @domain 		 raw.github.com
 // @domain		 indeed.com
-// @include      https://*.indeed.com/jobs*
-// @include      https://indeed.com/jobs*
+// @include      https://*.indeed.com/*
+// @include      https://indeed.com/*
 // @grant        none
 // ==/UserScript==
 
