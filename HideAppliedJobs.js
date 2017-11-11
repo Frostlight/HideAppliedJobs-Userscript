@@ -28,12 +28,13 @@
 // @version      1.1
 // @author       Frostlight
 // @description  Removes applied jobs from Indeed searches
+// @license      GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
+// @copyright	 2017, Frostlight (https://openuserjs.org/users/Frostlight)
 // @icon		 https://raw.githubusercontent.com/Frostlight/HideAppliedJobs-Userscript/master/icon.png
 // @domain 		 raw.github.com
 // @domain		 indeed.com
 // @include      https://*.indeed.com/jobs*
 // @include      https://indeed.com/jobs*
-// @license		 MIT
 // @grant        none
 // ==/UserScript==
 
