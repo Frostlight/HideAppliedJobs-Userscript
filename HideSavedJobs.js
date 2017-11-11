@@ -22,12 +22,12 @@
 **/
 
 // ==UserScript==
-// @ids			 HideAppliedJobs
-// @name         Hide Applied Jobs
+// @ids			 HideSavedJobs
+// @name         Hide Saved Jobs
 // @namespace    https://github.com/frostlight
-// @version      1.3
+// @version      1.0
 // @author       Frostlight
-// @description  Removes applied jobs from Indeed searches
+// @description  Removes saved jobs from Indeed searches
 // @license      GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
 // @copyright	 2017, Frostlight (https://openuserjs.org/users/Frostlight)
 // @icon		 https://raw.githubusercontent.com/Frostlight/Userscripts-Indeed/master/icon.png
@@ -42,14 +42,14 @@
 // @author Frostlight
 // ==/OpenUserJS==
 
-document.querySelectorAll("a[href='/myjobs?from=serp#Applied']").forEach(function(element) {
-    // Remove non sponsored applied elements
+document.querySelectorAll("a[href='/myjobs?from=serp#Saved']").forEach(function(element) {
+    // Remove non sponsored saved elements
     upperElement = element.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode;
     if (upperElement.tagName == 'DIV') {
         upperElement.parentNode.removeChild(upperElement);
     }
 
-    // Take care of sponsored applied elements
+    // Take care of sponsored saved elements
     var upperElement = element.parentNode.parentNode.parentNode.parentNode;
     if (upperElement.tagName == 'DIV') {
         upperElement.parentNode.removeChild(upperElement);
