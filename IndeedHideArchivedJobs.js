@@ -22,10 +22,10 @@
 **/
 
 // ==UserScript==
-// @ids			 HideArchivedJobs
-// @name         Hide Archived Jobs
+// @ids			 IndeedHideArchivedJobs
+// @name         Indeed Hide Archived Jobs
 // @namespace    https://github.com/frostlight
-// @version      1.0
+// @version      1.1
 // @author       Frostlight
 // @description  Removes archived jobs from Indeed searches
 // @license      GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
