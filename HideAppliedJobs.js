@@ -33,6 +33,7 @@
 // @domain		 indeed.com
 // @include      https://*.indeed.com/jobs*
 // @include      https://indeed.com/jobs*
+// @license		 MIT
 // @grant        none
 // ==/UserScript==
 
