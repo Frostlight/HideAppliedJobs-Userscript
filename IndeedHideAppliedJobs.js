@@ -28,10 +28,7 @@
 // @version      1.5
 // @author       Frostlight
 // @description  Removes applied jobs from Indeed searches
-<<<<<<< HEAD
 // @license      MIT; https://spdx.org/licenses/MIT.html
-=======
->>>>>>> 3f7d4e36ce5f501be83bab49d45ab4e4fc56294f
 // @copyright	 2017, Frostlight (https://openuserjs.org/users/Frostlight)
 // @icon		 https://raw.githubusercontent.com/Frostlight/Userscripts-Indeed/master/icon.png
 // @domain 		 raw.github.com
