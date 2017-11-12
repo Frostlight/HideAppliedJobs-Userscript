@@ -25,10 +25,10 @@
 // @ids			 IndeedHideSavedJobs
 // @name         Indeed Hide Saved Jobs
 // @namespace    https://github.com/frostlight
-// @version      1.0
+// @version      1.1
 // @author       Frostlight
 // @description  Removes saved jobs from Indeed searches
-// @license      GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
+// @license      MIT; https://spdx.org/licenses/MIT.html
 // @copyright	 2017, Frostlight (https://openuserjs.org/users/Frostlight)
 // @icon		 https://raw.githubusercontent.com/Frostlight/Userscripts-Indeed/master/icon.png
 // @domain 		 raw.github.com
