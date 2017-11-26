@@ -25,7 +25,7 @@
 // @ids			 IndeedHideArchivedJobs
 // @name         Indeed Hide Archived Jobs
 // @namespace    https://github.com/frostlight
-// @version      1.6
+// @version      1.7
 // @author       Frostlight
 // @description  Removes archived jobs from Indeed searches
 // @license      MIT; https://spdx.org/licenses/MIT.html
